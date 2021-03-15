@@ -1,0 +1,8 @@
+#+title: baca dulu
+
+
+* Cara setting env untuk toolchaine xilinx
+
+#+BEGIN_SRC bash
+export PATH=$PATH:/home/faoziaziz/dev/toolchain/bin
+#+END_SRC
