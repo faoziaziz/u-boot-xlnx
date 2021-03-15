@@ -6,3 +6,7 @@
 #+BEGIN_SRC bash
 export PATH=$PATH:/home/faoziaziz/dev/toolchain/bin
 #+END_SRC
+
+#+BEGIN_SRC bash
+make ARCH=arm CROSS_COMPILE=arm-xilinx-linux-gnueabi- zynq_zturn_config
+#+END_SRC 
